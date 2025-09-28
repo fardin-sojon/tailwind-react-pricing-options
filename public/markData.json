@@ -1,0 +1,102 @@
+[
+  {
+    "studentId": 1,
+    "name": "Rahim",
+    "marks": {
+      "chemistry": 78,
+      "physics": 82,
+      "math": 88,
+      "total": 248
+    }
+  },
+  {
+    "studentId": 2,
+    "name": "Karim",
+    "marks": {
+      "chemistry": 65,
+      "physics": 70,
+      "math": 75,
+      "total": 210
+    }
+  },
+  {
+    "studentId": 3,
+    "name": "Sohel",
+    "marks": {
+      "chemistry": 90,
+      "physics": 85,
+      "math": 92,
+      "total": 267
+    }
+  },
+  {
+    "studentId": 4,
+    "name": "Nayeem",
+    "marks": {
+      "chemistry": 60,
+      "physics": 68,
+      "math": 72,
+      "total": 200
+    }
+  },
+  {
+    "studentId": 5,
+    "name": "Hasan",
+    "marks": {
+      "chemistry": 74,
+      "physics": 80,
+      "math": 77,
+      "total": 231
+    }
+  },
+  {
+    "studentId": 6,
+    "name": "Rakib",
+    "marks": {
+      "chemistry": 88,
+      "physics": 90,
+      "math": 84,
+      "total": 262
+    }
+  },
+  {
+    "studentId": 7,
+    "name": "Sajid",
+    "marks": {
+      "chemistry": 92,
+      "physics": 95,
+      "math": 96,
+      "total": 283
+    }
+  },
+  {
+    "studentId": 8,
+    "name": "Tanim",
+    "marks": {
+      "chemistry": 68,
+      "physics": 72,
+      "math": 70,
+      "total": 210
+    }
+  },
+  {
+    "studentId": 9,
+    "name": "Jahid",
+    "marks": {
+      "chemistry": 81,
+      "physics": 79,
+      "math": 85,
+      "total": 245
+    }
+  },
+  {
+    "studentId": 10,
+    "name": "Mamun",
+    "marks": {
+      "chemistry": 55,
+      "physics": 60,
+      "math": 65,
+      "total": 180
+    }
+  }
+]
