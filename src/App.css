@@ -8,5 +8,3 @@ body {
   font-style: normal;
 }
 
-@import "tailwindcss";
-@plugin "daisyui";
